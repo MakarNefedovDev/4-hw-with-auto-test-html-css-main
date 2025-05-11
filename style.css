@@ -67,12 +67,13 @@ header span {
 .about-section {
     background-color: #fff;
     padding: 100px 0;
+    gap: 50px;
 }
 
 .about-section .wrapper {
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    
 }
 
 select {
