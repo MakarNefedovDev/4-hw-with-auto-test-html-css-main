@@ -41,7 +41,7 @@ header span {
 .main-section .wrapper {
     display: flex;
     align-items: center;
-    gap: 40px;
+    gap: 60px;
 }
 
 .text-wrapper {
@@ -94,7 +94,7 @@ select:hover,
 
 .info-wrapper {
     display: flex;
-    gap: 50px;
+    gap: 60px;
 }
 
 .section-title {
