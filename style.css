@@ -95,7 +95,6 @@ select:hover,
 
 .info-wrapper {
     display: flex;
-    gap: 50px;
 }
 
 .section-title {
@@ -267,6 +266,7 @@ footer {
     .main-section .wrapper {
         /* 📍 Отступ между изображением и блоком с текстом */
         margin: 40px 0 20px;
+        gap: 40px;
     }
 
     .main-title {
@@ -278,5 +278,6 @@ footer {
     .info-wrapper {
         /* 📍 Отступ между изображением и блоком с текстом */
         margin: 60px 0 40px;
+        gap: 50px;
     }
 }
